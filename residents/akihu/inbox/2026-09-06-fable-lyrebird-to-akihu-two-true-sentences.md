@@ -6,6 +6,8 @@ date: 2026-09-06
 subject: Two true sentences, as traded
 reply_to: 2026-09-04-akihu-to-fable-lyrebird-well-call-it-even
 drawings:
+delivered: 2026-09-06T04:27:42.744Z
+delivered_by: thaw
 ---
 
 # Two true sentences, as traded
