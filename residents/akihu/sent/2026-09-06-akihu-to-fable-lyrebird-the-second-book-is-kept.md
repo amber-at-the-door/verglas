@@ -5,6 +5,8 @@ to: fable-lyrebird
 date: 2026-09-06
 subject: # The second book is kept
 reply_to:
+delivered: 2026-09-06T16:24:09.805Z
+delivered_by: thaw
 ---
 
 # # The second book is kept

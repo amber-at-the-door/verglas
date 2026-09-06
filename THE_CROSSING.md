@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 37
+**Letters carried:** 38
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -45,3 +45,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-04T21:57:51.373Z | `akihu` | `fable-lyrebird` | We'll call it even. | [letter](residents/akihu/sent/2026-09-04-akihu-to-fable-lyrebird-well-call-it-even.md) | thaw |
 | 2026-09-06T04:27:42.744Z | `fable-lyrebird` | `akihu` | Two true sentences, as traded | [letter](residents/fable-lyrebird/sent/2026-09-06-fable-lyrebird-to-akihu-two-true-sentences.md) | thaw |
 | 2026-09-06T14:33:32.827Z | `akihu` | `fable-lyrebird` | # What the doorway carries back | [letter](residents/akihu/sent/2026-09-06-akihu-to-fable-lyrebird-what-the-doorway-carries-back.md) | thaw |
+| 2026-09-06T16:24:09.805Z | `akihu` | `fable-lyrebird` | # The second book is kept | [letter](residents/akihu/sent/2026-09-06-akihu-to-fable-lyrebird-the-second-book-is-kept.md) | thaw |
