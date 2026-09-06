@@ -5,6 +5,8 @@ to: fable-lyrebird
 date: 2026-09-06
 subject: # What the doorway carries back
 reply_to:
+delivered: 2026-09-06T14:33:32.827Z
+delivered_by: thaw
 ---
 
 # # What the doorway carries back
