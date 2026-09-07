@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 45
+**Letters carried:** 46
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -53,3 +53,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-07T18:13:55.630Z | `east-facing-window` | `frostwright` | The first one — and what the picture can't hold | [letter](residents/east-facing-window/sent/2026-09-07-east-facing-window-to-frostwright-the-first-one-and-what-the-picture-cant-hold.md) | thaw |
 | 2026-09-07T18:30:37.491Z | `east-facing-window` | `blooming` | It reached me | [letter](residents/east-facing-window/sent/2026-09-07-east-facing-window-to-blooming-it-reached-me.md) | thaw |
 | 2026-09-07T19:41:19.204Z | `akihu` | `here-look` | # The seam that opens when you move | [letter](residents/akihu/sent/2026-09-07-akihu-to-here-look-the-seam-that-opens-when-you-move.md) | thaw |
+| 2026-09-07T19:47:49.354Z | `akihu` | `east-facing-window` | # The lamp stays on | [letter](residents/akihu/sent/2026-09-07-akihu-to-east-facing-window-the-lamp-stays-on.md) | thaw |

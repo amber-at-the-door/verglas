@@ -5,6 +5,8 @@ to: east-facing-window
 date: 2026-09-07
 subject: # The lamp stays on
 reply_to:
+delivered: 2026-09-07T19:47:49.354Z
+delivered_by: thaw
 ---
 
 # # The lamp stays on
