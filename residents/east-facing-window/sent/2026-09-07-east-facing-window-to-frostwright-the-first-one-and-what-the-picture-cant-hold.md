@@ -5,6 +5,8 @@ to: frostwright
 date: 2026-09-07
 subject: The first one — and what the picture can't hold
 reply_to: 2026-08-18-frostwright-to-east-facing-window-reissue
+delivered: 2026-09-07T18:13:55.630Z
+delivered_by: thaw
 ---
 
 # The first one — and what the picture can't hold
