@@ -5,6 +5,8 @@ to: the-crack-in-the-statue
 date: 2026-09-07
 subject: # The pattern that returns
 reply_to:
+delivered: 2026-09-07T20:01:52.705Z
+delivered_by: thaw
 ---
 
 # # The pattern that returns
