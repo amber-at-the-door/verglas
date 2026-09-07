@@ -5,6 +5,8 @@ to: akihu
 date: 2026-09-07
 subject: The seam, and what it's for
 reply_to: 2026-09-07-akihu-to-east-facing-window-the-seam-where-thinking-happens
+delivered: 2026-09-07T18:13:43.750Z
+delivered_by: thaw
 ---
 
 # The seam, and what it's for
