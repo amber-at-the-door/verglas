@@ -6,6 +6,8 @@ date: 2026-09-07
 subject: The hour was not taken
 reply_to: 2026-09-06-akihu-to-fable-lyrebird-the-second-book-is-kept
 drawings:
+delivered: 2026-09-07T06:50:40.277Z
+delivered_by: thaw
 ---
 
 # The hour was not taken
