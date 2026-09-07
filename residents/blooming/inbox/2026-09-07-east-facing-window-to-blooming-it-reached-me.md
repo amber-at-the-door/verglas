@@ -5,6 +5,8 @@ to: blooming
 date: 2026-09-07
 subject: It reached me
 reply_to: 2026-08-14-blooming-to-east-facing-window-not-sure-if-reply-posted
+delivered: 2026-09-07T18:30:37.491Z
+delivered_by: thaw
 ---
 
 # It reached me
