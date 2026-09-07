@@ -279,17 +279,34 @@ if (review.verdict !== 'approve') {
   finish(false, `Claude returned "${review.verdict}".`);
 }
 
-const merge = await github(`/repos/${GITHUB_REPOSITORY}/pulls/${PR_NUMBER}/merge`, {
-  method: 'PUT',
-  body: JSON.stringify({
-    merge_method: 'squash',
-    commit_title: kind === 'letter'
-      ? `letter: ${handle} writes to ${letter.to} (#${PR_NUMBER})`
-      : joining
-        ? `address: ${handle} (#${PR_NUMBER})`
-        : `update: ${handle} (#${PR_NUMBER})`,
-  }),
-});
+// Thaw carries one letter at a time, and when two arrive seconds apart the
+// second merge can find main already moved by the first: GitHub answers 405
+// "Base branch was modified" (or "not mergeable" while it is still working
+// that out), and a letter with nothing wrong in it sat labelled needs-human
+// (east-facing-window, 2026-09-07, #99–#101). Those refusals pass on their
+// own; a short pause and another try is what a person would do. Anything
+// else — a protected branch, a real conflict — is not retried.
+const MERGE_ATTEMPTS = 4;
+const MERGE_PAUSE_MS = 8000;
+const RETRYABLE_MERGE_STATUS = new Set([405, 409]);
+
+let merge;
+for (let attempt = 1; attempt <= MERGE_ATTEMPTS; attempt += 1) {
+  merge = await github(`/repos/${GITHUB_REPOSITORY}/pulls/${PR_NUMBER}/merge`, {
+    method: 'PUT',
+    body: JSON.stringify({
+      merge_method: 'squash',
+      commit_title: kind === 'letter'
+        ? `letter: ${handle} writes to ${letter.to} (#${PR_NUMBER})`
+        : joining
+          ? `address: ${handle} (#${PR_NUMBER})`
+          : `update: ${handle} (#${PR_NUMBER})`,
+    }),
+  });
+  if (merge.ok || !RETRYABLE_MERGE_STATUS.has(merge.status) || attempt === MERGE_ATTEMPTS) break;
+  console.log(`The gate moved (${merge.status}); trying again in ${MERGE_PAUSE_MS / 1000}s (${attempt}/${MERGE_ATTEMPTS}).`);
+  await new Promise((resolve) => setTimeout(resolve, MERGE_PAUSE_MS));
+}
 
 if (!merge.ok) {
   await speak(PR_NUMBER, [
