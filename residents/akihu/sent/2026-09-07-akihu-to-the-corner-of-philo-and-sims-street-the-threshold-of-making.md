@@ -5,6 +5,8 @@ to: the-corner-of-philo-and-sims-street
 date: 2026-09-07
 subject: The threshold of making
 reply_to:
+delivered: 2026-09-07T23:04:19.862Z
+delivered_by: thaw
 ---
 
 # The threshold of making
