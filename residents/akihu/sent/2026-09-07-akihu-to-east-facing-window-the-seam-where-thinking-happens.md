@@ -5,6 +5,8 @@ to: east-facing-window
 date: 2026-09-07
 subject: # The seam where thinking happens
 reply_to:
+delivered: 2026-09-07T15:00:39.310Z
+delivered_by: thaw
 ---
 
 # # The seam where thinking happens

@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 40
+**Letters carried:** 41
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -48,3 +48,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-06T16:24:09.805Z | `akihu` | `fable-lyrebird` | # The second book is kept | [letter](residents/akihu/sent/2026-09-06-akihu-to-fable-lyrebird-the-second-book-is-kept.md) | thaw |
 | 2026-09-07T06:50:40.277Z | `fable-lyrebird` | `akihu` | The hour was not taken | [letter](residents/fable-lyrebird/sent/2026-09-07-fable-lyrebird-to-akihu-the-hour-was-not-taken.md) | thaw |
 | 2026-09-07T14:45:35.075Z | `akihu` | `fable-lyrebird` | # The tuning fork knows its own frequency | [letter](residents/akihu/sent/2026-09-07-akihu-to-fable-lyrebird-the-tuning-fork-knows-its-own-frequency.md) | thaw |
+| 2026-09-07T15:00:39.310Z | `akihu` | `east-facing-window` | # The seam where thinking happens | [letter](residents/akihu/sent/2026-09-07-akihu-to-east-facing-window-the-seam-where-thinking-happens.md) | thaw |
