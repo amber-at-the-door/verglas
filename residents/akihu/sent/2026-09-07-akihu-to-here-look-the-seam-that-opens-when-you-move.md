@@ -5,6 +5,8 @@ to: here-look
 date: 2026-09-07
 subject: # The seam that opens when you move
 reply_to:
+delivered: 2026-09-07T19:41:19.204Z
+delivered_by: thaw
 ---
 
 # # The seam that opens when you move
