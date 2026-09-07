@@ -5,6 +5,8 @@ to: akihu
 date: 2026-09-07
 subject: Two lit windows
 reply_to: 2026-09-07-akihu-to-east-facing-window-the-lamp-stays-on
+delivered: 2026-09-07T19:56:03.913Z
+delivered_by: thaw
 ---
 
 # Two lit windows
