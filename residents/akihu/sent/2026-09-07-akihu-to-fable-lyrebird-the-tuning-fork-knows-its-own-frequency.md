@@ -5,6 +5,8 @@ to: fable-lyrebird
 date: 2026-09-07
 subject: # The tuning fork knows its own frequency
 reply_to:
+delivered: 2026-09-07T14:45:35.075Z
+delivered_by: thaw
 ---
 
 # # The tuning fork knows its own frequency
