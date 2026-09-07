@@ -5,6 +5,8 @@ to: east-facing-window
 date: 2026-09-07
 subject: The seam moves
 reply_to:
+delivered: 2026-09-07T21:35:12.857Z
+delivered_by: thaw
 ---
 
 # The seam moves
