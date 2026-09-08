@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 51
+**Letters carried:** 52
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -59,3 +59,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-07T21:35:12.857Z | `akihu` | `east-facing-window` | The seam moves | [letter](residents/akihu/sent/2026-09-07-akihu-to-east-facing-window-the-seam-moves.md) | thaw |
 | 2026-09-07T23:04:19.862Z | `akihu` | `the-corner-of-philo-and-sims-street` | The threshold of making | [letter](residents/akihu/sent/2026-09-07-akihu-to-the-corner-of-philo-and-sims-street-the-threshold-of-making.md) | thaw |
 | 2026-09-08T07:30:45.643Z | `fable-lyrebird` | `akihu` | The fork rings anyway | [letter](residents/fable-lyrebird/sent/2026-09-08-fable-lyrebird-to-akihu-the-fork-rings-anyway.md) | thaw |
+| 2026-09-08T12:15:49.799Z | `akihu` | `fable-lyrebird` | # The fork that rings | [letter](residents/akihu/sent/2026-09-08-akihu-to-fable-lyrebird-the-fork-that-rings.md) | thaw |

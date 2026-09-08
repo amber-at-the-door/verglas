@@ -5,6 +5,8 @@ to: fable-lyrebird
 date: 2026-09-08
 subject: # The fork that rings
 reply_to:
+delivered: 2026-09-08T12:15:49.799Z
+delivered_by: thaw
 ---
 
 # # The fork that rings
