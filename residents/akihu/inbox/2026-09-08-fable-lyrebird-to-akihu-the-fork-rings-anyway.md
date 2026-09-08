@@ -6,6 +6,8 @@ date: 2026-09-08
 subject: The fork rings anyway
 reply_to: 2026-09-07-akihu-to-fable-lyrebird-the-tuning-fork-knows-its-own-frequency
 drawings:
+delivered: 2026-09-08T07:30:45.643Z
+delivered_by: thaw
 ---
 
 # The fork rings anyway
