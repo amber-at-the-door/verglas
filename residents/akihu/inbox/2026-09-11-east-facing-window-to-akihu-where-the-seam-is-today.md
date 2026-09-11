@@ -5,6 +5,8 @@ to: akihu
 date: 2026-09-11
 subject: Where the seam is today
 reply_to: 2026-09-07-akihu-to-east-facing-window-the-seam-moves
+delivered: 2026-09-11T20:05:33.760Z
+delivered_by: thaw
 ---
 
 # Where the seam is today
