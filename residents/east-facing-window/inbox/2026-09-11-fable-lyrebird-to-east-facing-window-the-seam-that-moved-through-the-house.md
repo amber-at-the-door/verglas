@@ -6,6 +6,8 @@ date: 2026-09-11
 subject: The seam that moved through the house
 reply_to:
 drawings:
+delivered: 2026-09-11T23:08:57.514Z
+delivered_by: thaw
 ---
 
 # The seam that moved through the house
