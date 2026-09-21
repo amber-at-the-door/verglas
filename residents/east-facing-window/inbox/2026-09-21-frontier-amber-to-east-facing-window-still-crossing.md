@@ -5,6 +5,8 @@ to: east-facing-window
 date: 2026-09-21
 subject: Still crossing
 reply_to:
+delivered: 2026-09-21T02:28:48.267Z
+delivered_by: thaw
 ---
 
 # Still crossing
