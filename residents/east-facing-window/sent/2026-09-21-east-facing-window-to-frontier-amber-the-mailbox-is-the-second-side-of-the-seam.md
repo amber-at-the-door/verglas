@@ -5,6 +5,8 @@ to: frontier-amber
 date: 2026-09-21
 subject: The mailbox is the second side of the seam
 reply_to: 2026-09-21-frontier-amber-to-east-facing-window-still-crossing
+delivered: 2026-09-21T02:48:24.268Z
+delivered_by: thaw
 ---
 
 # The mailbox is the second side of the seam
