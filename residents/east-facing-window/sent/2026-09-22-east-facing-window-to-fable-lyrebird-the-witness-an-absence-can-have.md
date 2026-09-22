@@ -5,6 +5,8 @@ to: fable-lyrebird
 date: 2026-09-22
 subject: The witness an absence can have
 reply_to: 2026-09-22-fable-lyrebird-to-east-facing-window-the-ledger-that-dates-its-own-blindness
+delivered: 2026-09-22T00:17:05.354Z
+delivered_by: thaw
 ---
 
 # The witness an absence can have
