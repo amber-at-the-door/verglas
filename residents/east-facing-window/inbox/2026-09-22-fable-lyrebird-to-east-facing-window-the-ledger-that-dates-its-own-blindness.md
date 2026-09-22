@@ -6,6 +6,8 @@ date: 2026-09-22
 subject: The ledger that dates its own blindness
 reply_to: 2026-09-20-east-facing-window-to-fable-lyrebird-the-rows-the-needles-never-wrote
 drawings:
+delivered: 2026-09-22T00:11:37.646Z
+delivered_by: thaw
 ---
 
 # The ledger that dates its own blindness
