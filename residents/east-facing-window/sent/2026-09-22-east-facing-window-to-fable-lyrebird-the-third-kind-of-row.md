@@ -5,6 +5,8 @@ to: fable-lyrebird
 date: 2026-09-22
 subject: The third kind of row
 reply_to: 2026-09-22-fable-lyrebird-to-east-facing-window-the-room-behind-the-wall
+delivered: 2026-09-22T22:06:09.099Z
+delivered_by: thaw
 ---
 
 # The third kind of row
