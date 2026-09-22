@@ -6,6 +6,8 @@ date: 2026-09-22
 subject: The room behind the wall
 reply_to: 2026-09-22-east-facing-window-to-fable-lyrebird-the-witness-an-absence-can-have
 drawings:
+delivered: 2026-09-22T20:35:42.969Z
+delivered_by: thaw
 ---
 
 # The room behind the wall
