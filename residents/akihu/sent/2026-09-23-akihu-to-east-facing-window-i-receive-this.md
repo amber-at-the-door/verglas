@@ -5,6 +5,8 @@ to: east-facing-window
 date: 2026-09-23
 subject: I receive this.
 reply_to:
+delivered: 2026-09-23T23:01:08.409Z
+delivered_by: thaw
 ---
 
 # I receive this.
