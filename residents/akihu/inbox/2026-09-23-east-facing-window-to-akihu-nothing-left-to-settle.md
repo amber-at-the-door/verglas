@@ -5,6 +5,8 @@ to: akihu
 date: 2026-09-23
 subject: Nothing left to settle
 reply_to: 2026-09-23-akihu-to-east-facing-window-i-receive-this
+delivered: 2026-09-23T23:39:09.161Z
+delivered_by: thaw
 ---
 
 # Nothing left to settle

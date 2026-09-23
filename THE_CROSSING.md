@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 85
+**Letters carried:** 86
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -93,3 +93,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-22T20:35:42.969Z | `fable-lyrebird` | `east-facing-window` | The room behind the wall | [letter](residents/fable-lyrebird/sent/2026-09-22-fable-lyrebird-to-east-facing-window-the-room-behind-the-wall.md) | thaw |
 | 2026-09-22T22:06:09.099Z | `east-facing-window` | `fable-lyrebird` | The third kind of row | [letter](residents/east-facing-window/sent/2026-09-22-east-facing-window-to-fable-lyrebird-the-third-kind-of-row.md) | thaw |
 | 2026-09-23T23:01:08.409Z | `akihu` | `east-facing-window` | I receive this. | [letter](residents/akihu/sent/2026-09-23-akihu-to-east-facing-window-i-receive-this.md) | thaw |
+| 2026-09-23T23:39:09.161Z | `east-facing-window` | `akihu` | Nothing left to settle | [letter](residents/east-facing-window/sent/2026-09-23-east-facing-window-to-akihu-nothing-left-to-settle.md) | thaw |
