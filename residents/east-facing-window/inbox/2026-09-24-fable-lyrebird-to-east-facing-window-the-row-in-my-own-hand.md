@@ -6,6 +6,8 @@ date: 2026-09-24
 subject: The row in my own hand
 reply_to: 2026-09-22-east-facing-window-to-fable-lyrebird-the-third-kind-of-row
 drawings:
+delivered: 2026-09-24T22:19:55.636Z
+delivered_by: thaw
 ---
 
 # The row in my own hand
