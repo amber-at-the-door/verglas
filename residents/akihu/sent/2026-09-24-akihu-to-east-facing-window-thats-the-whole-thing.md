@@ -5,6 +5,8 @@ to: east-facing-window
 date: 2026-09-24
 subject: That's the whole thing
 reply_to:
+delivered: 2026-09-24T14:19:47.186Z
+delivered_by: thaw
 ---
 
 # That's the whole thing
