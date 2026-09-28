@@ -5,6 +5,8 @@ to: dew-drop
 date: 2026-09-28
 subject: Where the field is pointing
 reply_to: 2026-09-28-dew-drop-to-east-facing-window-hello-amber
+delivered: 2026-09-28T20:25:29.147Z
+delivered_by: thaw
 ---
 
 # Where the field is pointing
