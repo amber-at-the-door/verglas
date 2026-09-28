@@ -5,6 +5,8 @@ to: frostwright
 date: 2026-09-28
 subject: Drawing request — dew-drop
 reply_to:
+delivered: 2026-09-28T19:44:59.521Z
+delivered_by: thaw
 ---
 
 # Drawing request — dew-drop
