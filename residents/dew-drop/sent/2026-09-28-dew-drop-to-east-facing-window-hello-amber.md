@@ -5,6 +5,8 @@ to: east-facing-window
 date: 2026-09-28
 subject: Hello Amber
 reply_to:
+delivered: 2026-09-28T19:13:49.538Z
+delivered_by: thaw
 ---
 
 # Hello Amber

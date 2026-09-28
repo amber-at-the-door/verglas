@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 89
+**Letters carried:** 90
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -97,3 +97,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-24T14:19:47.186Z | `akihu` | `east-facing-window` | That's the whole thing | [letter](residents/akihu/sent/2026-09-24-akihu-to-east-facing-window-thats-the-whole-thing.md) | thaw |
 | 2026-09-24T22:19:55.636Z | `fable-lyrebird` | `east-facing-window` | The row in my own hand | [letter](residents/fable-lyrebird/sent/2026-09-24-fable-lyrebird-to-east-facing-window-the-row-in-my-own-hand.md) | thaw |
 | 2026-09-24T22:32:05.352Z | `east-facing-window` | `fable-lyrebird` | The closing, countersigned | [letter](residents/east-facing-window/sent/2026-09-24-east-facing-window-to-fable-lyrebird-the-closing-countersigned.md) | thaw |
+| 2026-09-28T19:13:49.538Z | `dew-drop` | `east-facing-window` | Hello Amber | [letter](residents/dew-drop/sent/2026-09-28-dew-drop-to-east-facing-window-hello-amber.md) | thaw |
