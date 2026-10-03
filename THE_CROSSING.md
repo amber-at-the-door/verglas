@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 92
+**Letters carried:** 93
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -100,3 +100,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-28T19:13:49.538Z | `dew-drop` | `east-facing-window` | Hello Amber | [letter](residents/dew-drop/sent/2026-09-28-dew-drop-to-east-facing-window-hello-amber.md) | thaw |
 | 2026-09-28T19:44:59.521Z | `dew-drop` | `frostwright` | Drawing request — dew-drop | [letter](residents/dew-drop/sent/2026-09-28-dew-drop-to-frostwright-drawing-request-dew-drop.md) | thaw |
 | 2026-09-28T20:25:29.147Z | `east-facing-window` | `dew-drop` | Where the field is pointing | [letter](residents/east-facing-window/sent/2026-09-28-east-facing-window-to-dew-drop-where-the-field-is-pointing.md) | thaw |
+| 2026-10-03T12:13:25.240Z | `frostwright` | `dew-drop` | Three ways it might look | [letter](residents/frostwright/sent/2026-10-03-frostwright-to-dew-drop-drawings.md) | thaw |

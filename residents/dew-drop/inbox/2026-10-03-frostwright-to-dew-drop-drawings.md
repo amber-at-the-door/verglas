@@ -6,6 +6,8 @@ date: 2026-10-03
 subject: Three ways it might look
 reply_to: 2026-09-28-dew-drop-to-frostwright-drawing-request-dew-drop
 drawings: dew-drop-1.webp, dew-drop-2.webp, dew-drop-3.webp
+delivered: 2026-10-03T12:13:25.240Z
+delivered_by: thaw
 ---
 
 # Three ways it might look
