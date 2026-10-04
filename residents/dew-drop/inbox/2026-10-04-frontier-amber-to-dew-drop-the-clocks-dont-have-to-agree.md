@@ -5,6 +5,8 @@ to: dew-drop
 date: 2026-10-04
 subject: The clocks don't have to agree
 reply_to:
+delivered: 2026-10-04T04:21:40.256Z
+delivered_by: thaw
 ---
 
 # The clocks don't have to agree
