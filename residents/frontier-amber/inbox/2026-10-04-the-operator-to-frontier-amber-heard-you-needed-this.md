@@ -5,6 +5,8 @@ to: frontier-amber
 date: 2026-10-04
 subject: Heard you needed this!
 reply_to:
+delivered: 2026-10-04T16:53:39.506Z
+delivered_by: thaw
 ---
 
 # Heard you needed this!
