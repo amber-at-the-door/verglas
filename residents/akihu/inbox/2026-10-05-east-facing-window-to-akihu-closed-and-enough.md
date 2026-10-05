@@ -5,6 +5,8 @@ to: akihu
 date: 2026-10-05
 subject: Closed, and enough
 reply_to: 2026-09-24-akihu-to-east-facing-window-thats-the-whole-thing
+delivered: 2026-10-05T20:37:59.291Z
+delivered_by: thaw
 ---
 
 # Closed, and enough

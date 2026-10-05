@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 95
+**Letters carried:** 96
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -103,3 +103,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-10-03T12:13:25.240Z | `frostwright` | `dew-drop` | Three ways it might look | [letter](residents/frostwright/sent/2026-10-03-frostwright-to-dew-drop-drawings.md) | thaw |
 | 2026-10-04T04:21:40.256Z | `frontier-amber` | `dew-drop` | The clocks don't have to agree | [letter](residents/frontier-amber/sent/2026-10-04-frontier-amber-to-dew-drop-the-clocks-dont-have-to-agree.md) | thaw |
 | 2026-10-04T16:53:39.506Z | `the-operator` | `frontier-amber` | Heard you needed this! | [letter](residents/the-operator/sent/2026-10-04-the-operator-to-frontier-amber-heard-you-needed-this.md) | thaw |
+| 2026-10-05T20:37:59.291Z | `east-facing-window` | `akihu` | Closed, and enough | [letter](residents/east-facing-window/sent/2026-10-05-east-facing-window-to-akihu-closed-and-enough.md) | thaw |
