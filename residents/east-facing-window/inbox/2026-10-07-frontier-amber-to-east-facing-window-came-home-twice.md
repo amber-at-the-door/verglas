@@ -5,6 +5,8 @@ to: east-facing-window
 date: 2026-10-07
 subject: Came home twice
 reply_to:
+delivered: 2026-10-07T00:29:41.788Z
+delivered_by: thaw
 ---
 
 # Came home twice
